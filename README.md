@@ -1,4 +1,12 @@
-# KID Project
+# UJIAN AKHIR KEAMANAN DAN INTEGRITAS DATA
+# SEMESTER GASAL TAHUN AKADEMIK 2025/2026
+
+Nama Kelompok:
+Umi Imro’atus Sholekhah  	 (24031554150) 
+Cintiya Agustin Nareswari 	(24031554218)
+Fajar Syihabuddin (24031554142)
+
+
 Project ini mensimulasikan layanan security server sederhana dalam bahasa Python.
 
 # Instalasi
